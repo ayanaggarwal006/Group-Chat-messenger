@@ -1,6 +1,7 @@
 # Client-Server Messenger
 
-This is my first ever Java project which i built taking reference from this Youtube channel [thenewboston](https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw). It is a simple client-server messaging system which can be used to communicate between local client and a remote server using java sockets and streams.
+This is  Java project which i built.
+It is a simple client-server messaging system which can be used to communicate between local client and a remote server using java sockets and streams.
 
 # The Program In Action
 
